@@ -1,0 +1,6 @@
+bokeh==2.4.2
+gTTS==2.3.2
+openai==0.27.7
+python-dotenv==1.0.0
+streamlit==1.22.0
+streamlit_bokeh_events==0.1.2
